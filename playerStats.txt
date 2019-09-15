@@ -1,5 +1,0 @@
-tadf,warrior,1,08,13,140
-adsf,hunter,1,0,11,3,100
-dgg,thief,1,016,2,60
-tydg,warrior,1,08,13,140
-hhjry,thief,1,016,2,60
