@@ -1,5 +1,0 @@
-hello,warrior,1,08,13,140
-nope,warrior,1,08,13,140
-notathief,hunter,1,0,11,3,100
-bybb,thief,1,016,2,60
-loveef,warrior,1,08,13,140
